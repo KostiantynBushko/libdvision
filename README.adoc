@@ -1,0 +1,9 @@
+= DVision
+Image processing\recognition C\C++ library 
+
+Reason:
+To create a library which intended to simplify work 
+in the projects with the processing visual information.
+
+The main idea for this project is to develop a collection of the best approaches, 
+algorithms, and data structures as well as pipeline for image processing.
